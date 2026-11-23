@@ -1,4 +1,4 @@
-# Linux-Praxis-Labs – Debian-Administration auf der Kommandozeile
+# Linux-Kommandozeile – Referenz – Debian-Administration auf der Kommandozeile
 
 > Stand: 23.11.2026 · ✅ 13 von 13 Übungsbereichen abgeschlossen · Teil meiner Umschulung zur Fachinformatikerin für Systemintegration
 
@@ -37,6 +37,6 @@ Die wichtigsten Befehle auf einer Seite: [cheatsheet.md](cheatsheet.md)
 
 ## 🔗 Verwandte Projekte
 
-- [linux-automation-labs](https://github.com/gulerzenginkisaoglu-7838/linux-automation-labs) – Fehlersuche, Bash-Automatisierung, cron, Backup und Prüfsummen
-- [linux-administration](https://github.com/gulerzenginkisaoglu-7838/linux-administration) – SSH, systemctl, Apache, MariaDB, Nextcloud
-- [proxmox-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-homelab) – Virtualisierung mit Proxmox VE (Debian-basiert)
+- [linux-automation-and-troubleshooting](https://github.com/gulerzenginkisaoglu-7838/linux-automation-and-troubleshooting) – Fehlersuche, Bash-Automatisierung, cron, Backup und Prüfsummen
+- [linux-server-administration](https://github.com/gulerzenginkisaoglu-7838/linux-server-administration) – SSH, systemctl, Apache, MariaDB, Nextcloud
+- [proxmox-virtualization-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-virtualization-homelab) – Virtualisierung mit Proxmox VE (Debian-basiert)
