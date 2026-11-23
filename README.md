@@ -37,6 +37,6 @@ Die wichtigsten Befehle auf einer Seite: [cheatsheet.md](cheatsheet.md)
 
 ## 🔗 Verwandte Projekte
 
-- [linux-automation-and-troubleshooting](https://github.com/gulerzenginkisaoglu-7838/linux-automation-and-troubleshooting) – Fehlersuche, Bash-Automatisierung, cron, Backup und Prüfsummen
-- [linux-server-administration](https://github.com/gulerzenginkisaoglu-7838/linux-server-administration) – SSH, systemctl, Apache, MariaDB, Nextcloud
-- [proxmox-virtualization-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-virtualization-homelab) – Virtualisierung mit Proxmox VE (Debian-basiert)
+- [linux-automatisierung-und-fehlersuche](https://github.com/gulerzenginkisaoglu-7838/linux-automatisierung-und-fehlersuche) – Fehlersuche, Bash-Automatisierung, cron, Backup und Prüfsummen
+- [linux-serveradministration](https://github.com/gulerzenginkisaoglu-7838/linux-serveradministration) – SSH, systemctl, Apache, MariaDB, Nextcloud
+- [proxmox-virtualisierung-homelab](https://github.com/gulerzenginkisaoglu-7838/proxmox-virtualisierung-homelab) – Virtualisierung mit Proxmox VE (Debian-basiert)
